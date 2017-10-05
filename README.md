@@ -1,5 +1,5 @@
 # PIRO
-PIRO: Projet d'Intercomparaison de Re-analyses Océaniques / Ocean Re-analysis Intercomparison Project
+Ocean Re-analysis Intercomparison Project or "Projet d'Intercomparaison de Re-analyses Océaniques": PIRO
 
 PIRO is a computational framework that aims to make easy the intercomparison of diagnostics conducted on different ocean re-analysis time series.
 
